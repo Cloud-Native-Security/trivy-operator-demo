@@ -37,7 +37,7 @@ Helm Chart: https://github.com/aquasecurity/trivy-operator/tree/main/deploy/helm
 
 **Installation**
 
-Install ArgoCD by following the getting started guide here:
+Install ArgoCD by following the getting started guide here: https://argo-cd.readthedocs.io/en/stable/getting_started/
 
 Apply the Trivy-Operator installation manifest:
 
